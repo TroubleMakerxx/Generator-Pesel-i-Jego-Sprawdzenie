@@ -1,0 +1,11 @@
+C:\Users\sebek\source\repos\techniki programowania czlowiek komputer\zadania\Generator Pesel\Generator Pesel\bin\Debug\Generator Pesel.exe.config
+C:\Users\sebek\source\repos\techniki programowania czlowiek komputer\zadania\Generator Pesel\Generator Pesel\bin\Debug\Generator Pesel.exe
+C:\Users\sebek\source\repos\techniki programowania czlowiek komputer\zadania\Generator Pesel\Generator Pesel\bin\Debug\Generator Pesel.pdb
+C:\Users\sebek\source\repos\techniki programowania czlowiek komputer\zadania\Generator Pesel\Generator Pesel\obj\Debug\Generator Pesel.csproj.AssemblyReference.cache
+C:\Users\sebek\source\repos\techniki programowania czlowiek komputer\zadania\Generator Pesel\Generator Pesel\obj\Debug\Generator Pesel.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebek\source\repos\techniki programowania czlowiek komputer\zadania\Generator Pesel\Generator Pesel\obj\Debug\Generator_Pesel.Form1.resources
+C:\Users\sebek\source\repos\techniki programowania czlowiek komputer\zadania\Generator Pesel\Generator Pesel\obj\Debug\Generator_Pesel.Properties.Resources.resources
+C:\Users\sebek\source\repos\techniki programowania czlowiek komputer\zadania\Generator Pesel\Generator Pesel\obj\Debug\Generator Pesel.csproj.GenerateResource.cache
+C:\Users\sebek\source\repos\techniki programowania czlowiek komputer\zadania\Generator Pesel\Generator Pesel\obj\Debug\Generator Pesel.csproj.CoreCompileInputs.cache
+C:\Users\sebek\source\repos\techniki programowania czlowiek komputer\zadania\Generator Pesel\Generator Pesel\obj\Debug\Generator Pesel.exe
+C:\Users\sebek\source\repos\techniki programowania czlowiek komputer\zadania\Generator Pesel\Generator Pesel\obj\Debug\Generator Pesel.pdb
